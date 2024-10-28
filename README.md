@@ -4,3 +4,5 @@ A data structure is a way to organize and store data in a computer so that it ca
 
 Main:- The focus of this Repositry is to maintain a code for Data structure.
 
+Experiments:-
+1. Exp 1- Array.
